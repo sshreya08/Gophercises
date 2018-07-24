@@ -28,18 +28,18 @@ Flags:
 Use "Task [command] --help" for more information about a commands
 
 $ Task add Buy Groceries
-Added "review talk proposal"
+Added "Buy Groceries"
 
 $ Task add Do Laundary
-Added "clean dishes"
+Added "Do Laundary"
 
 $ Task list
-1. review talk proposal
-2. some task description
+1. Buy Groceries
+2. Do Laundary
 
 $ Task done 1
 
 $ Task list
 You have the following tasks:
-1. some task description
+1. Do Laundary
 ```
