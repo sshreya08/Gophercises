@@ -1,11 +1,10 @@
-# TASK MANAGER
-In this exercise we are creating command line tool for todo tasks.
+# SECRET API KEY MANAGER
+In this exercise we are managing Secret API key and other secrets
 
 ```
 We can perform following tasks through this
-1. Add task to the tasks list
-2. List tasks from the tasks list
-3. Mark a task as complete
+1. Set API Key
+2. Get API Key
 ```
 
 ```
