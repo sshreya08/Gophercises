@@ -7,6 +7,6 @@ import (
 
 //The root command represents a bare call to the Task application.
 var RootCommand = &cobra.Command{
-	Use:   "Task Application",
+	Use:   "Task",
 	Short: "This Application is a Command Line Task Manager",
 }
