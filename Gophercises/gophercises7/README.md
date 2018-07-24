@@ -28,16 +28,18 @@ Flags:
 Use "Task [command] --help" for more information about a commands
 
 $ Task add Buy Groceries
-Added "Buy Groceries"
+2018/07/24 18:47:41 Task "Buy Groceries" added to the task list
 
 $ Task add Do Laundary
-Added "Do Laundary"
+2018/07/24 18:48:09 Task "Do Laundary" added to the task list.
 
 $ Task list
+Your Tasks:
 1. Buy Groceries
 2. Do Laundary
 
 $ Task done 1
+Marked "1" as completed.
 
 $ Task list
 You have the following tasks:
